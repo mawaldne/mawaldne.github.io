@@ -1,0 +1,96 @@
+
+/* Dark colors for easier reading */
+html, html * {
+  color: #eeeeee;
+  background-color: #222222;
+}
+
+img, video {z-index: 1}
+* { border-color: #555555; }
+cite, cite * {color: #029833; }
+:link, :link * {color: #8db2e5;}
+input, textarea {background-color: #333333;}
+:visited, :visited * {color: rgb(211, 138, 138);}
+html, body, input, select, button {background-image: none;}
+
+video {
+  background-color: transparent !important;
+}
+
+
+body {
+  font-family: "Gentium Basic", "Sabon Lt Std", "Hoefler Text", "Palatino Linotype", "Book Antiqua", serif;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-variant: small-caps;
+  margin: 0;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 32px;
+  margin-top: 1em;
+}
+
+h4 {
+  font-size: 26px;
+  margin-top: .8em;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+a {
+  background-color: rgba(255, 255, 255, 0.01);
+  text-decoration: none;
+}
+
+p {
+  margin: 1em 0;
+}
+
+p.date {
+  margin-bottom: 2em;
+}
+
+p.byline {
+  margin: 0;
+}
+
+p.category-links {
+  margin-bottom: 1em;
+  margin-top: -0.5em;
+}
+
+p#header {
+  margin: 1em 0;
+}
+
+#container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.date {
+  margin-top: 0;
+}
+
+code {
+  font-size: 16px;
+  white-space: pre-wrap;
+}
+
+ul {
+  margin-top: 0;
+}

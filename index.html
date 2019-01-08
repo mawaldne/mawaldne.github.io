@@ -1,0 +1,18 @@
+---
+layout: default
+title: Mike Waldner
+---
+<ul>
+  {% for post in site.posts %}
+  {% if post.published != false %}
+  <li>
+    {% if post.external_url %}
+    <a href="{{ post.external_url }}">{{ post.title }}</a>
+    {% else %}
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {% endif %}
+  ({{ post.date | date_to_string }})
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
