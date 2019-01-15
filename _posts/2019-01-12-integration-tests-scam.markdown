@@ -9,7 +9,7 @@ I watched a very interesting video on a flight home last week:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDfX44fZoMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Since I just read [Make is stick](https://www.amazon.ca/Make-Stick-Science-Successful-Learning/dp/0674729013)
-this is my attempt at active learning :). Just going to ask questions to myself and trying to explain things in my own words.
+this is my attempt at active learning :). Just going to ask myself questions and try to explain concepts from the video in my own words.
 
 What is an integration test? Where you're testing more than one thing, or testing differnt bits of interesting behavior. A test where if something breaks, its not easy to know where the problem exists.
 
