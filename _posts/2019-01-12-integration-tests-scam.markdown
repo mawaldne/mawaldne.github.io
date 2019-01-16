@@ -11,10 +11,10 @@ I watched a very interesting video on a flight home last week:
 Since I just read [Make is stick](https://www.amazon.ca/Make-Stick-Science-Successful-Learning/dp/0674729013)
 this is my attempt at active learning. Just going to ask myself questions and try to explain concepts from the video in my own words.
 
-What is an integration test? Where you're testing more than one thing, or testing differnt bits of interesting behavior.
-A test where if something breaks, its not easy to know where the problem exists.
+What is an integration test? Where you're testing more than one thing or testing different bits of interesting behavior.
+A test where if something breaks it's not easy to know where the problem exists.
 
-What are unit/collaboration tests? Tests that do one thing and one thing only. A test where if it fails, you know
+What are unit/collaboration tests? Tests that do one thing and one thing only. A test where if it fails you know
 exactly where and what the problem is. The idea of a collaboration test is that its from the point of view from the client.
 Does the client interact properly.
 
