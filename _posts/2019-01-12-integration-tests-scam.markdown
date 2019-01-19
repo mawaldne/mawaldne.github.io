@@ -35,12 +35,13 @@ a long time to run! Where as we can have thousands of smaller unit tests running
 Proper unit and collaboration testing means you'll end up creating almost a ring architecture of tests (more like
 an onion). Each level the the ring represents a layer of communication and collaboration you need to test on both
 sides. If you create mocks that mock one layer, you need to make sure those expectations are tested on the other side.
-Eventually you will reach the outer part of the ring where you are testing things like direct DB access.
-And you should be doing your best to minimize these slow tests using simple design techniques. When you use
+Eventually you will reach the outer part of the ring where you are testing things like direct DB or 3rd party library
+access. You should be doing your best to minimize these slow tests using simple design techniques. When you use
 this ring architecture approach to testing, you turn the combinatorial growth of test cases into just a
 linear growth. (Turn multiplication into adding). Also just writing fewer integration tests leaves you more
 energy to write smaller more resillient collaboration tests.
 
 My thoughts? - A few intergration and smoke tests to run through all your systems can add value.
-It's nice to know all parts of the system are reachable and working. This would be really
-simple tests that just test really simple endpoints. You don't want to many of these kinds of tests.
+It's nice to know all parts of the system are reachable and working. These should be just a few
+simple tests that just test really simple endpoints.
+
