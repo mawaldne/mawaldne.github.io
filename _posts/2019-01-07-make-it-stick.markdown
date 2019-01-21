@@ -5,7 +5,8 @@ date:   2019-01-07 11:34:30 -0700
 categories: reviews audible
 ---
 ```
-Practice how you play and you’ll play as you practise
+"Practice how you play and you’ll play as you practise"
+- Peter Brown, Henry Roediger, Mark McDaniel
 ```
 
 I finished my first book of 2019. [Make it stick](https://www.amazon.ca/Make-Stick-Science-Successful-Learning/dp/0674729013) was recommended to me by my former CTO as one of his favorite books on the subject of learning.
