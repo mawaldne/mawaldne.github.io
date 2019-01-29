@@ -16,7 +16,7 @@ The main take away for me is if you want to get good at recalling what you learn
 
 1) Testing. Test yourself on material with small quizzes. Ask yourself questions. Have more active learning strategies than just reading material.
 
-2) Spaced repetition and interleaving different concepts. Learn different material and have spaced intervals between subsequents review of materials so that you actually exercise recall more.
+2) Spaced repetition and interleaving different concepts. Learn different material and have spaced intervals between subsequent review of materials so that you actually exercise recall more.
 
 And finally don’t make things too easy. You need to challenge yourself with the material and try to explain things in your own way. Thats the best way to show you've mastered it.
 
