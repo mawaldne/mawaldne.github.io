@@ -11,8 +11,8 @@ is by introducing structure.  We don't get better without structure.
 
 One strategy the book discusses (really the only strategy in the book) is the idea of daily questions.
 Asking ourselves daily questions can help us trigger better behavior. Questions trigger trying.
-Its daily personal feedback about our progress towards our goals. If I was comparing it to agile
-management, its almost like a weekly demo. Something that pushes us to try and accomplish something.
+It's daily personal feedback about progress towards our goals. If I was comparing it to agile
+management, it's almost like a weekly demo. Something that pushes us to try and accomplish something.
 
 There's a important distinct about the kinds of question we ask ourselves. They need to be active question
 as opposed to passive questions. For example a passive question might be "Do you have clear goals". An active
