@@ -13,11 +13,11 @@ One strategy the book discusses to create structure (really the only strategy in
 daily questions. Asking ourselves daily questions can help us trigger better behavior. Questions trigger trying.
 It's daily feedback about the progress towards our goals and it pushes us to accomplish something.
 
-There's a important distinct about the kinds of question we ask ourselves. They need to be active question
+There's a important distinction about the kinds of question we ask ourselves. They need to be active question
 as opposed to passive questions. For example a passive question might be "Do you have clear goals". An active
 question would be "Did I do my best to set clear goals". Personal responsibility is a big theme in this book.
-Passive questions can let us assign blame somewhere else, where as active questions help us take more personal responsbility.
-We try to make changes to accomplish our goals when we personally take responsibility for it.
+Passive questions can let us assign blame somewhere else, where as active questions help us take more personal
+responsbility. We try to make changes to accomplish our goals when we personally take responsibility for it.
 
 The author provides 6 daily questions he thinks everyone should ask themselves:
 
