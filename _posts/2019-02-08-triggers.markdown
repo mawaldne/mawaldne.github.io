@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Book Review - Triggers"
-date:   2019-01-12 17:00:00 -0700
+date:   2019-02-08 20:00:00 -0700
 categories: audible review
 ---
 I just finished [Triggers: Creating Behavior That Lasts](https://www.amazon.ca/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0804141231). I enjoyed it and think its worth a read. Its hard to go through all the topics in the book but if I was to give a short summary
