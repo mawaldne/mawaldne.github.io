@@ -4,8 +4,6 @@ layout: default
 <h2>{{ page.title }}</h2>
 <p class="byline"><a href="/">Mike Waldner</a></p>
 <p class="date">{{ page.date | date_to_string }}</p>
-
-
 {% unless page.categories == empty %}
 {% capture category_links %}
 {% for category_name in page.categories limit:1 %}
@@ -15,15 +13,8 @@ layout: default
 {% else %}
 <b>{{post.category_title}}</b>
 {% endif %}
-{% if forloop.last == false %}
- -
-{% endif %}
 {% endfor %}
 {% endfor %}
 {% endcapture %}
-<p class="category-links">
-  {{ category_links | strip_newlines }}
-</p>
 {% endunless %}
-
 {{ content }}
