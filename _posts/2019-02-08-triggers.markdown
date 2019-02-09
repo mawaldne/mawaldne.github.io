@@ -4,15 +4,15 @@ title:  "Book Review - Triggers"
 date:   2019-02-08 20:00:00 -0700
 categories: audible review
 ---
-I just finished [Triggers: Creating Behavior That Lasts](https://www.amazon.ca/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0804141231). I enjoyed it and think its worth a read. Its hard to go through all the topics in the book but if I was to give a short summary
+I just finished [Triggers: Creating Behavior That Lasts](https://www.amazon.ca/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0804141231).
+I enjoyed it and think its worth a read. It's hard to go through all the topics in the book but if I was to give a short summary
 its that our environment changes and triggers bad behaviors. The only way to control our unruley environment
 is by introducing structure.  We don't get better without structure.
 
 One strategy the book discusses (really the only strategy in the book) is the idea of daily questions.
-Asking ourselves daily questions can actually help us trigger better behavior. Questions trigger trying.
-I compare it to challenging yourself on what you actually accomplished. Daily personal feedback on if
-we're making progress towards our goals. If I was comparing it to agile management, its almost like
-a daily scrum or even a weekly demo. Something that pushes us to try and accomplish something.
+Asking ourselves daily questions can help us trigger better behavior. Questions trigger trying.
+Its daily personal feedback about our progress towards our goals. If I was comparing it to agile
+management, its almost like a weekly demo. Something that pushes us to try and accomplish something.
 
 There's a important distinct about the kinds of question we ask ourselves. They need to be active question
 as opposed to passive questions. For example a passive question might be "Do you have clear goals". An active
